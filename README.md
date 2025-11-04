@@ -1,9 +1,5 @@
 # The Complete Sherlock Holmes
 
-[Home](README.md) | [Stories](stories.md) | [About](about.md)
-
-# The Complete Sherlock Holmes
-
 _Arthur Conan Doyle_
 
 
