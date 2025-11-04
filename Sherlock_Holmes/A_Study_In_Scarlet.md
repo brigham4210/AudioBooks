@@ -3485,9 +3485,11 @@ the fastening of the doors that night, and that he carefully cleaned
 and loaded the rusty old shotgun which hung upon the wall of his
 bedroom.
 
- -----
+
+```
 *1: Heber C Kemball, in one of his sermons, alludes to his hundred
 wives under this endearing epithet.
+```
 
 
 
@@ -4004,9 +4006,9 @@ hunter approached it, he perceived that a stick had been planted on
 it, with a sheet of paper stuck in the cleft fork of it. The
 inscription upon the paper was brief, but to the point:
 
-                              JOHN FERRIER,
-                       Formerly of Salt Lake City,
-                         Died August 4th, 1860.
+      JOHN FERRIER,
+      Formerly of Salt Lake City,
+      Died August 4th, 1860.
 
 
 The sturdy old man, whom he had left so short a time before, was
@@ -4858,8 +4860,8 @@ testimonial!"
 the public shall know them. In the meantime you must make yourself
 contented by the consciousness of success, like the Roman miser--
 
-                  "'Populus me sibilat, at mihi plaudo
-             Ipse domi simul ac nummos contemplar in arca.'"
+      "'Populus me sibilat, at mihi plaudo
+      Ipse domi simul ac nummos contemplar in arca.'"
 
 
 
