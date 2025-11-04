@@ -3,9 +3,9 @@
 _Arthur Conan Doyle_
 
 
-### [A Study in Scarlet](A_Study_in_Scarlet.md)
+### [A Study in Scarlet](A_Study_in_Scarlet)
 
-### [The Sign of the Four](The_Sign_of_the_Four.md)
+### [The Sign of the Four](The_Sign_of_the_Four)
 
 
 ## The Adventures of Sherlock Holmes
