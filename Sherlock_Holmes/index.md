@@ -7,7 +7,11 @@ _Arthur Conan Doyle_
 
 ### [The Sign of the Four](The_Sign_of_the_Four.md)
 
+
 ## The Adventures of Sherlock Holmes
+<details>
+<summary>STORIES</summary>
+
 1. A Scandal in Bohemia
 2. The Red-Headed League
 3. A Case of Identity
@@ -21,8 +25,13 @@ _Arthur Conan Doyle_
 11. The Adventure of the Beryl Coronet
 12. The Adventure of the Copper Beeches
 
+</details>
+
 
 ## The Memoirs of Sherlock Holmes
+<details>
+<summary>STORIES</summary>
+
 1. Silver Blaze
 2. The Yellow Face
 3. The Stock-Broker's Clerk
@@ -34,9 +43,12 @@ _Arthur Conan Doyle_
 9. The Greek Interpreter
 10. The Naval Treaty
 11. The Final Problem
-
+</details>
 
 ## The Return of Sherlock Holmes
+
+<details>
+<summary>STORIES</summary>
 1. The Adventure of the Empty House
 2. The Adventure of the Norwood Builder
 3. The Adventure of the Dancing Men
@@ -50,6 +62,7 @@ _Arthur Conan Doyle_
 11. The Adventure of the Missing Three-Quarter
 12. The Adventure of the Abbey Grange
 13. The Adventure of the Second Stain
+</details>
 
 
 ### The Hound of the Baskervilles
@@ -57,6 +70,10 @@ _Arthur Conan Doyle_
 ### The Valley Of Fear
 
 ## His Last Bow
+
+<details>
+<summary>STORIES</summary>
+
 1. Preface
 2. The Adventure of Wisteria Lodge
 3. The Adventure of the Cardboard Box
@@ -67,7 +84,14 @@ _Arthur Conan Doyle_
 8. The Adventure of the Devil's Foot
 9. His Last Bow
 
+</details>
+
+
 ## The Case-Book of Sherlock Holmes
+
+<details>
+<summary>STORIES</summary>
+
 1. Preface
 2. The Illustrious Client
 3. The Blanched Soldier
@@ -81,3 +105,4 @@ _Arthur Conan Doyle_
 11. The Adventure of the Veiled Lodger
 12. The Adventure of Shoscombe Old Place
 13. The Adventure of the Retired Colourman
+</details>
