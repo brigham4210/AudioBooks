@@ -7,7 +7,7 @@ _Arthur Conan Doyle_
 
 ### [The Sign of the Four](The_Sign_of_the_Four.md)
 
-## The Adventures of Sherlock Holmes
+# The Adventures of Sherlock Holmes
 1. A Scandal in Bohemia
 2. The Red-Headed League
 3. A Case of Identity
@@ -22,7 +22,7 @@ _Arthur Conan Doyle_
 12. The Adventure of the Copper Beeches
 
 
-## The Memoirs of Sherlock Holmes
+# The Memoirs of Sherlock Holmes
 1. Silver Blaze
 2. The Yellow Face
 3. The Stock-Broker's Clerk
