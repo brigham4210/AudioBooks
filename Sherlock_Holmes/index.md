@@ -3,7 +3,7 @@
 _Arthur Conan Doyle_
 
 
-### [A Study In Scarlet](A_Study_In_Scarlet.md)
+### [A Study In Scarlet](A_Study_in_Scarlet.md)
 
 ### [The Sign of the Four](The_Sign_of_the_Four.md)
 
