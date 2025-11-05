@@ -9,11 +9,8 @@ _Arthur Conan Doyle_
 
 
 ## The Adventures of Sherlock Holmes
-<details>
-<summary>STORIES</summary>
 
 - A Scandal in Bohemia
-
 - The Red-Headed League
 - A Case of Identity
 - The Boscombe Valley Mystery
@@ -26,8 +23,6 @@ _Arthur Conan Doyle_
 - The Adventure of the Beryl Coronet
 - The Adventure of the Copper Beeches
    
-
-</details>
 
 
 ## The Memoirs of Sherlock Holmes
