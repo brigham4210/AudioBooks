@@ -10,7 +10,7 @@ _Arthur Conan Doyle_
 
 ## The Adventures of Sherlock Holmes
 
-- A Scandal in Bohemia
+- [A Scandal in Bohemia](The_Adventures_of_Sherlock_Holmes/A_Scandal_in_Bohemia)
 - The Red-Headed League
 - A Case of Identity
 - The Boscombe Valley Mystery

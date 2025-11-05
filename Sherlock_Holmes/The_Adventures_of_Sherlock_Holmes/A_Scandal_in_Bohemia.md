@@ -2,22 +2,20 @@
 
 
 
-A SCANDAL IN BOHEMIA
+# A SCANDAL IN BOHEMIA
 
-Arthur Conan Doyle
-
-
+_Arthur Conan Doyle_
 
 
 
 
 
-Table of contents
-Chapter 1
-Chapter 2
-Chapter 3
 
 
+## Table of contents
+- [Chapter 1](#chapter-i)
+- [Chapter 2](#chapter-ii)
+- [Chapter 3](#chapter-iii)
 
 
 
@@ -31,7 +29,9 @@ Chapter 3
 
 
 
-CHAPTER I
+
+
+## CHAPTER I
 
 
 
@@ -506,7 +506,7 @@ like to chat this little matter over with you."
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 
@@ -975,7 +975,7 @@ lit street. "Now, I wonder who the deuce that could have been."
 
 
 
-CHAPTER III
+## CHAPTER III
 
 
 
