@@ -12,29 +12,19 @@ _Arthur Conan Doyle_
 <details>
 <summary>STORIES</summary>
 
-1. A Scandal in Bohemia
-
-2. The Red-Headed League
-
-3. A Case of Identity
-
-4. The Boscombe Valley Mystery
-
-5. The Five Orange Pips
-
-6. The Man with the Twisted Lip
-
-7. The Adventure of the Blue Carbuncle
-
-8. The Adventure of the Speckled Band
-
-9. The Adventure of the Engineer's Thumb
-
-10. The Adventure of the Noble Bachelor
-
-11. The Adventure of the Beryl Coronet
-
-12. The Adventure of the Copper Beeches
+    1. A Scandal in Bohemia
+    2. The Red-Headed League
+    3. A Case of Identity
+    4. The Boscombe Valley Mystery
+    5. The Five Orange Pips
+    6. The Man with the Twisted Lip
+    7. The Adventure of the Blue Carbuncle
+    8. The Adventure of the Speckled Band
+    9. The Adventure of the Engineer's Thumb
+    10. The Adventure of the Noble Bachelor
+    11. The Adventure of the Beryl Coronet
+    12. The Adventure of the Copper Beeches
+   
 
 </details>
 
